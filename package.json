@@ -1,0 +1,12 @@
+{
+  "name": "ayaya-lings",
+  "version": "1.0.0",
+  "description": "Never feel alone again, cute lings will be with you.",
+  "main": "src/index.js",
+  "scripts": {
+    "build": "node src/build.js"
+  },
+  "keywords": [],
+  "author": "BotKalista",
+  "license": "MIT"
+}
